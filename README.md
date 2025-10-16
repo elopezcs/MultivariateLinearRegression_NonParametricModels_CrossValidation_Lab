@@ -53,15 +53,15 @@ Accuracy 0.806, Precision 0.737, Recall 0.636, ROC-AUC 0.861 on the test set. Th
 - Python 3.12.x  
 - Packages used in the notebook include: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `ipython` display utilities.
 
-### Install
+### Install Dependencies
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+pip install -r requirements.txt
 ```
 
 ## How to Run
 1. Clone the repo.  
 2. Create and activate a virtual environment.  
-3. Install dependencies.  
+3. Install dependencies. 
 4. Launch Jupyter and open `MultivariateLinearRegression_Lab.ipynb`.  
 5. Run all cells from top to bottom.
 
